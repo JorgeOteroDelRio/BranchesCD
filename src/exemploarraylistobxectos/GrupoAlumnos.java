@@ -51,4 +51,8 @@ public class GrupoAlumnos {
     public void ordenar(){
         Collections.sort(grupo,null);
     }
+    
+    public void holaMundo(){
+        System.out.println("Hola mundo");
+    }
 }
