@@ -54,5 +54,6 @@ public class GrupoAlumnos {
     
     public void holaMundo(){
         System.out.println("Hola mundo");
+        System.out.println("Adios mundo");
     }
 }
